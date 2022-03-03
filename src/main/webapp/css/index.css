@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.bg-login-image {
+	/* === cargar la imagen === */
+	background: url("../img/bg-login.jpg");
+	/* === centrar la imagen en el contenedor === */
+	background-position: center;
+	/* === que la imagen se adpate al tamaño del contenedor === */
+	background-size: cover;
+	/* === contenedor sin borde === */
+	border: 0px;
+}
+
+.sizeDiv {
+	/* === anchura | 40% anchura del viewport (navegador) === */
+	width: 40vw;	
+}

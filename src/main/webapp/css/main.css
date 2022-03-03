@@ -1,0 +1,16 @@
+#main-menu {
+	/* === coordenadas del contenedor === */	
+	/* === por la izquierda no lo pongo === */
+	left: unset;
+	/* === por la derecha lo pongo a cero === */
+	right: 0;	
+}
+
+#ordenar-genero {
+	cursor: pointer;
+}
+
+#form-container {
+	/* === anchura | 40% anchura del viewport (navegador) === */
+	width: 40vw;
+}
